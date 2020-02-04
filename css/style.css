@@ -1,0 +1,148 @@
+section{
+	min-height: 625px;
+}
+.jumbotron{
+	color: white;
+	background-color:#4682B4; 
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.jumbotron img{
+	width: 200px;
+	border: solid 3px white;
+}
+
+.about hr{
+	width: 250px;
+	border-top: solid 3px #4682B4;
+}
+
+.portfolio{
+	color: white;
+	background-color:#4682B4; 
+}
+
+.portfolio hr{
+	width: 250px;
+	border-top: solid 3px black;
+}
+
+/*price*/
+.pricing hr{
+	width: 250px;
+	border-top: solid 3px #4682B4;
+}
+
+.single-pricing{
+	text-align: center;
+	background-color: #2F4F4F;
+	color: white;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 15px;
+}
+
+.head-text{
+	background-color: #4682B4;
+	border-bottom: 0;
+	margin-bottom: 20px;
+	padding: 15px 0;
+	border-radius: 7px 7px 0 0;
+}
+
+.head-text h3{
+	margin: 0;
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.popular{
+	color: yellow;
+}
+
+.pricing-area .pricing-area span{
+	position: relative;
+	padding: 10px 0;
+	color: #fff;
+	font-weight: 15;
+	font-size: 32px;
+	outline-width: 1;
+}
+
+.price-area span .duration{
+	display: block;
+	font-size: 16px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+	color: #888;
+	letter-spacing: 1px;
+	vertical-align: baseline;
+	color: #999;
+	margin: 20px 0 0 3px;
+}
+
+.price-area:after, .feature-area{
+	border: 0;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.feature-area ul{
+	margin: 0;
+	padding: 15px 0;
+	list-style: none;
+}
+
+.feature-area li{
+	padding: 6px 0;
+	font-size: 14px;
+}
+
+.btn-area{
+	padding: 15px 30px;
+}
+
+.btn-area a{
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+	outline: 0;
+	white-space: nowrap;
+	margin: 5px;
+	padding: 0 22px;
+	font-size: 14px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #1abc9c;
+	color: #fff;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border:none;
+	border-radius: 15px;
+}
+
+
+
+
+
+/*akhir priece*/
+
+.contact{
+	color: white;
+	background-color: #4682B4;
+}
+
+.contact hr{
+	width: 250px;
+	border-top: solid 3px black;
+}
+
+
+
+
